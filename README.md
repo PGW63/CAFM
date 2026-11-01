@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Close Approach For Manipulation</h1>
+  <h1> CAFM — Geometry-Based Final Approach and Alignment for Mobile Manipulation </h1>
   <img src="https://img.shields.io/badge/Ubuntu-24.04-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu 24.04">
   <img src="https://img.shields.io/badge/C%2B%2B-17-00599C?logo=cplusplus&logoColor=white" alt="C++17">
   <img src="https://img.shields.io/badge/ROS2-jazzy-22314E?logo=ros&logoColor=white" alt="ROS2 jazzy">
